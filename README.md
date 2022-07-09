@@ -1,5 +1,5 @@
 # Optical Character Recognition for Tamil
-A Optical Character Recognition system that detects text from the scanned copy of an ancient Tamil book and digitises it. A sample page from the scanned copy of book is considered as input and digitsed as a text document.
+A Optical Character Recognition system that detects text from the scanned copy of an ancient Tamil book and digitises it. A sample page from the scanned copy of book is considered as input and digitsed as a text document omitting the header with page number and the footer with publisher's name.
 
 ## Implementation Steps
 *    Input images are processed.
